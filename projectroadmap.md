@@ -13,4 +13,4 @@
 12. Using the flask map, link closure data to the plotted points
 12. Use code to analyze dataset to help determine which variables factor into a hospital's closure.
 13. Separate variables on supposed impact to hospital closure to find a pattern in the rural hospitals' closures.
-14. Write documentation for final project and create short presentation about the project
+14. DONE. Write documentation for final project and create short presentation about the project
